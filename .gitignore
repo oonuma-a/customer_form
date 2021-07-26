@@ -48,3 +48,9 @@ Thumbs.db
 *.mov
 *.wmv
 
+vendor/
+/.env
+/.env.example
+/.env.swo
+/.env.swp
+/●memo.txt
